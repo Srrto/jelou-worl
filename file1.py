@@ -1,1 +1,1 @@
-print("Hola mundo a la verga me vale verga, no se crean perros xdxdxd")
+print("Hola mundo")
